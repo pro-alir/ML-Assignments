@@ -53,6 +53,3 @@ Implement Principal Component Analysis (PCA) for dimensionality reduction and K-
 - Implement K-Means clustering and determine optimal clusters using elbow and silhouette methods
 - Compare custom K-Means with sklearn implementation
 
----
-
-Each assignment includes detailed code and explanations. Please ensure datasets are available and correctly linked in each notebook. Contributions and feedback are welcome!
